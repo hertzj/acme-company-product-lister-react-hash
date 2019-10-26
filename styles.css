@@ -1,0 +1,11 @@
+.selected {
+    background-color: tomato
+}
+.pageControls {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pageControls > div {
+    padding: 1rem;
+}
